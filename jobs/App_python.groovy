@@ -1,4 +1,4 @@
-multibranchPipelineJob('Desarrollo-flask+docker') {
+multibranchPipelineJob('Desarrollo_flask_docker') {
     branchSources {
         git {
             remote("git@github.com:VictorMCL/test-jenkins.git")
